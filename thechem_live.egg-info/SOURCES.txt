@@ -1,0 +1,11 @@
+pyproject.toml
+src_live/S.py
+src_live/__init__.py
+src_live/atom.py
+src_live/basis_set.py
+src_live/molecule.py
+thechem_live.egg-info/PKG-INFO
+thechem_live.egg-info/SOURCES.txt
+thechem_live.egg-info/dependency_links.txt
+thechem_live.egg-info/requires.txt
+thechem_live.egg-info/top_level.txt
